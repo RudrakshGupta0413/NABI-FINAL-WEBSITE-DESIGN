@@ -1,0 +1,11 @@
+.intro {
+    height: 20px;
+    width: 400px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -70px;
+   /* background-color: rgb(27, 27, 27, 0.5);*/
+    color: white;
+    transition: 0.5s;
+}
